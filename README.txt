@@ -2,9 +2,9 @@ audio_hdmi_guides
 ============
 OS X HDMI Audio Guides/Topic Specific
 
-Update: v3 - 8/10/2015 -  Initial 10.11 and Broadwell support, native CPU/GPU PM, 
-	and Nvidia Maxwell support
-Update: v2 - 8/15/2014
+v3: 8/10/2015 - New ssdt method/credit RehabMan, initial 10.11, native CPU/GPU PM and
+    Nvidia Maxwell support
+v2: 8/15/2014
 
 Use the primary guide to install OS X HDMI audio.  Additional HDMI audio details are provided by the topic specific guides.
 
