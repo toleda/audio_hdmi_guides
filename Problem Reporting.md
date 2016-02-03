@@ -1,4 +1,4 @@
-Problem Reporting - Realtek ALC AppleHDA_v4.0  
+Problem Reporting - Realtek ALC AppleHDA_v1.0  
 ![alt text](https://github.com/toleda/audio_ALC_guides/blob/master/xsound.jpeg)  
 # Problem Reporting - HDMI Audio AppleHDA
 OS X HDMI audio support for Intel Graphis HD, AMD Radeon, Nvidia GeForce, Intel/AMD and Intel/Nvidia graphics configurations.  
