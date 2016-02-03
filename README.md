@@ -1,8 +1,8 @@
-HDMI Audio AppleHDA [Guides]_v4.0
+HDMI Audio AppleHDA [Guides]_v4.0  
 ![alt text](https://github.com/toleda/audio_RealtekALC/blob/master/sound.jpeg)
 #HDMI Audio AppleHDA [Guides]
 
-**OS X Intel HD Graphics/AMD/Nvidia HDMI audio with Clover**  
+**OS X Intel HD Graphics/AMD/Nvidia HDMI audio**  
 
 **Updates**  
 **1/15/16 - El Capitan support, cloverHDMI script**  
