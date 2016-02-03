@@ -4,14 +4,14 @@ HDMI Audio AppleHDA [Guides]_v4.0
 
 **OS X Intel HD Graphics/AMD/Nvidia HDMI audio**  
 
+Clover HDMI audio enables HDMI, DP and DVI audio with patched or native OS X AppleHDA.kext. HDMI audio ACPI edits are enabled with dsdt edits, edited ssdts or Clover injection/dsdt patching.  Clover provides audio and graphic binary patching while preserving native kext installation.  Supports Intel HD Graphics and/or AMD or Nvidia HDMI audio.
+
+cloverHDMI detects and installs the correct ssdt(s) and patches the Intel framebuffer for the connected display(s) enabling OS X HDMI audio.
+
 **Updates**  
 **1/15/16 - El Capitan support, cloverHDMI script**  
 12/2/14 - Yosemite, 9series support   
 Credit: TimeWalker/10.10+/HD4600 codec patch
-
-Clover HDMI audio enables HDMI, DP and DVI audio with patched or native OS X AppleHDA.kext. HDMI audio ACPI edits are enabled with dsdt edits, edited ssdts or Clover injection/dsdt patching.  Clover provides audio and graphic binary patching while preserving native kext installation.  Supports Intel HD Graphics and/or AMD or Nvidia HDMI audio.
-
-cloverHDMI detects and installs the correct ssdt(s) and patches the Intel framebuffer for the connected display(s) enabling OS X HDMI audio.
 
 # Methods
 Install one method, uninstall before installing another method  
